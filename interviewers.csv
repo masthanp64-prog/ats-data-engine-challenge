@@ -1,0 +1,6 @@
+interviewer_id,name,is_available
+INTV-000001,Erlang Shen,False
+INTV-000002,Ada Lovelace,True
+INTV-000003,Alan Turing,True
+INTV-000004,Grace Hopper,True
+INTV-000005,Linus Torvalds,True

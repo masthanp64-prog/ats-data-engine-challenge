@@ -1,0 +1,6 @@
+entity_id,anomaly_type,description
+INT-2026-999001,INTERVIEW_UNAVAILABLE_INTERVIEWER,Critical scheduling mismatch conflict: Interview allocated to blocked interviewer timeline.
+APP-REQ-2026-000001-CAND-000001-DUP,DUPLICATE_APPLICATION,Integrity Alert: Candidate recorded dual system entry requests targeting individual workflow pipeline.
+APP-REQ-2026-000002-CAND-000002,MISSING_FEEDBACK_STAGE_ADVANCED,Compliance Alert: Workflow progression state advanced bypassing missing operational scoring checks.
+OFF-2026-999001,OFFER_SALARY_OUT_OF_BAND,Audit Failure: Offer value (165467.0) violates approved limits (100467.0).
+REQ-2026-000091,CLOSED_ROLE_ACTIVE_APPLICATIONS,Lifecycle Paradox: Requisition closed system state contains active candidate routing sequences.
